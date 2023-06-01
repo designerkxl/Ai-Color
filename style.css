@@ -1,0 +1,22 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  .color-box {
+    width: 200px;
+    height: 200px;
+    margin: 50px auto;
+    border: 2px solid black;
+  }
+  
+  
