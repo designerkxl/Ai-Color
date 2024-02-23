@@ -1,22 +1,31 @@
 body {
-    background-color: #f2f2f2;
-    font-family: Arial, sans-serif;
-    text-align: center;
-  }
-  
-  .container {
-    margin-top: 50px;
-  }
-  
-  label {
-    margin-right: 10px;
-  }
-  
-  .color-box {
-    width: 200px;
-    height: 200px;
-    margin: 50px auto;
-    border: 2px solid black;
-  }
-  
-  
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+label {
+  margin-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  font-weight: 600;
+}
+
+.color-box {
+  width: 100%;
+  height: 150px;
+  border: 1px solid #b5b5b5;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px #b5b5b5;
+  margin-top: 20px;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 600;
+}
+
